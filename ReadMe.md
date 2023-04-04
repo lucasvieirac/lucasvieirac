@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mim
 Olá, seja bem-vindo ao meu perfil no Github! Aqui você encontrará meus projetos pessoais e profissionais, além de contribuições para projetos de código aberto.<br><br>Sou apaixonado por tecnologia e programação, e acredito que o Github é uma excelente plataforma para compartilhar conhecimento e colaborar com outros desenvolvedores ao redor do mundo.<br><br>Meus principais interesses são em desenvolvimento web, machine learning e data science. Sempre busco aprender coisas novas e compartilhar esse conhecimento com a comunidade.<br><br>Fique à vontade para explorar meus repositórios e se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado por visitar!
 
 
